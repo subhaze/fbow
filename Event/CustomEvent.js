@@ -14,5 +14,3 @@
 	
 		window.CustomEvent = CustomEvent;
 	})();
-
-export default "side-effects";

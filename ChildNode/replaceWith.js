@@ -23,5 +23,3 @@ if (!CharacterData.prototype.replaceWith)
     CharacterData.prototype.replaceWith = ReplaceWith;
 if (!DocumentType.prototype.replaceWith) 
 		DocumentType.prototype.replaceWith = ReplaceWith;
-
-export default "side-effects";

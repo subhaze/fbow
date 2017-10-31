@@ -15,5 +15,3 @@
     });
   });
 })([Element.prototype, CharacterData.prototype, DocumentType.prototype]);
-
-export default "side-effects";

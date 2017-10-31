@@ -13,5 +13,3 @@ Element.prototype.closest = function(s) {
 		} while (el !== null); 
 		return null;
 };
-
-export default "side-effects";
