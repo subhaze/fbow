@@ -22,3 +22,5 @@
     });
   });
 })([Element.prototype, Document.prototype, DocumentFragment.prototype]);
+
+export default "side-effects";
