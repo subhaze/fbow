@@ -1,6 +1,6 @@
 {
   "name": "fbow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DOM 4+ polyfill based on MDN",
   "main": "index.js",
   "scripts": {
