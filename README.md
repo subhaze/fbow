@@ -4,6 +4,7 @@
 
 Each polyfill was pulled from MDN or a resource that MDN suggested.
 
+[Run tests in browser.](http://htmlpreview.github.io/?https://github.com/subhaze/fbow/blob/master/__tests__/index.html)
 
 #### ChildNode
 - [after()](https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/after)
