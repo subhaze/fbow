@@ -15,7 +15,7 @@ function ReplaceWith(Ele) {
     }
     parent.insertBefore(this.previousSibling, arguments[i]);
   }
-  if (firstIsNode) parent.replaceChild(this, Ele);
+  if (firstIsNode) parent.replaceChild(Ele, this);
 }
 if (!Element.prototype.replaceWith)
     Element.prototype.replaceWith = ReplaceWith;
